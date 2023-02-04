@@ -23,6 +23,7 @@ const config = {
     'MySQL',
     'Python',
     'R',
+    'Tableau',
     'Netlogo'
   ],
   experiences: [
@@ -63,7 +64,7 @@ const config = {
   education: [
     {
       institution: 'University of Catania',
-      degree: "'Master's degree in Data Sciene for Management",
+      degree: "Master's degree in Data Sciene for Management",
       from: 'September 2021',
       to: 'Present',
     },
