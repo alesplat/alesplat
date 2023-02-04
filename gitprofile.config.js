@@ -64,13 +64,13 @@ const config = {
   education: [
     {
       institution: 'University of Catania',
-      degree: "Master's degree in Data Sciene for Management",
+      degree: "Master's degree in Data Science for Management",
       from: 'September 2021',
       to: 'Present',
     },
     {
       institution: 'University of Catania',
-      degree: 'Bachelor Degree in Compueter Engineering',
+      degree: 'Bachelor Degree in Computer Engineering',
       from: 'September 2016',
       to: 'March 2021',
     },
