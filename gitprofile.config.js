@@ -41,7 +41,7 @@ const config = {
       companyLink: 'https://www.innova-doc.net/',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
       name: 'IELTS certificate',
       body: 'Score: 7.5',
@@ -60,7 +60,7 @@ const config = {
       year: 'April 2019',
      // link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'University of Catania',
@@ -70,7 +70,7 @@ const config = {
     },
     {
       institution: 'University of Catania',
-      degree: 'Bachelor Degree in Computer Engineering',
+      degree: "Bachelor's degree in Computer Engineering",
       from: 'September 2016',
       to: 'March 2021',
     },
