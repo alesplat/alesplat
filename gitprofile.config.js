@@ -157,7 +157,7 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#00a3ff', //default #fc055b
+      primary: '#f2f7fc', //default #fc055b
       secondary: '#219aaf',
       accent: '#e8d03a',
       neutral: '#1B1818', //default #2A2730
