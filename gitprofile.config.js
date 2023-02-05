@@ -160,8 +160,8 @@ const config = {
       primary: '#55ADFD', //default #fc055b, perfetto #55ADFD, testato #8AC7FF
       secondary: '#219aaf',
       accent: '#e8d03a',
-      neutral: '#1B1818', //default #2A2730
-      'base-100': '#E2F0FF', //default #E3E3ED',
+      neutral: '#000000', //default #2A2730
+      'base-100': '#ECF5FF', //default #E3E3ED',
       '--rounded-box': '1rem',  //default 3rem
       '--rounded-btn': '1rem',   //default 3rem
     },
