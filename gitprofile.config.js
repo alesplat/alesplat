@@ -29,7 +29,7 @@ const config = {
   experiences: [
     {
       company: 'University of Catania',
-      position: 'Early stage researcher',
+      position: 'Research Collaborator',
       from: 'February 2023',
       to: 'Present',
     },
